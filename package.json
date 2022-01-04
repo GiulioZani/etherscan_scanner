@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "axios": "^0.21.1",
+    "cli-progress": "^3.9.0",
+    "console-table-printer": "^2.8.2",
+    "csv-writer": "^1.6.0",
+    "danfojs-node": "^0.2.6",
+    "prettier": "^2.2.1"
+  }
+}
